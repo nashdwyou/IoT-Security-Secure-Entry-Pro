@@ -3,3 +3,5 @@
 
 Our secure entry pro allows users to unlock doors efficiently and securely by using RFID cards.User could save a lot of energy as the lock would activate to unlock when they sense someone presence. When there is a fail attempt, user would receive an alert text via Telegram that someone trying to break in .There is a button function that allow user to capture the intruder picture and send via Telegram. This is to ensure user could captured the perpetrator and use it as evidence in cases where there is a actual break in.
 
+Camera1.py : Python code to capture image and send to telegram.It will capture image when u press 'A'.
+test1 : the arduino code is consist of RFID , LCD, ultrasonic and servo motor.It will send alert via telegram.
